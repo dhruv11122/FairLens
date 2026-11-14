@@ -1,0 +1,626 @@
+gender,age_group,employment_type,education,annual_income,credit_score,debt_to_income,loan_amount,loan_approved
+Male,26-40,Salaried,Bachelors,43672.16,714,0.424,46430.98,1
+Male,41-60,Gig/Contract,High School,32450.26,612,0.262,11003.29,0
+Male,18-25,Salaried,Bachelors,49836.06,627,0.152,40888.44,0
+Female,26-40,Unemployed,Bachelors,36957.35,695,0.403,48301.77,1
+Female,18-25,Salaried,Masters/PhD,38522.63,826,0.134,10674.95,0
+Female,41-60,Salaried,High School,32841.6,659,0.484,9078.1,1
+Male,26-40,Self-Employed,Masters/PhD,48313.76,788,0.476,27890.36,1
+Female,26-40,Salaried,High School,72142.81,632,0.248,37320.89,0
+Female,18-25,Salaried,Masters/PhD,94019.27,703,0.134,31011.81,1
+Female,26-40,Salaried,Bachelors,56295.26,585,0.36,16337.31,0
+Male,26-40,Self-Employed,Bachelors,139284.56,698,0.518,21081.59,1
+Female,18-25,Self-Employed,High School,22406.79,667,0.115,28052.09,0
+Non-Binary,26-40,Self-Employed,Masters/PhD,59800.38,670,0.475,39704.05,0
+Female,18-25,Gig/Contract,Masters/PhD,71025.36,679,0.383,47102.87,1
+Female,26-40,Self-Employed,High School,54129.63,676,0.299,18678.66,0
+Female,18-25,Self-Employed,High School,74226.21,714,0.525,27189.9,1
+Male,26-40,Salaried,High School,88544.0,809,0.432,10097.11,1
+Male,41-60,Gig/Contract,Bachelors,50684.83,689,0.534,38835.04,0
+Female,26-40,Salaried,Masters/PhD,44170.07,740,0.283,48749.66,1
+Non-Binary,41-60,Self-Employed,High School,53872.46,723,0.297,41826.79,1
+Female,26-40,Gig/Contract,High School,48937.08,717,0.369,7419.88,1
+Male,26-40,Self-Employed,Masters/PhD,54926.98,644,0.161,48748.19,1
+Male,41-60,Salaried,Bachelors,70195.41,576,0.251,25112.21,0
+Female,26-40,Salaried,High School,44910.64,732,0.531,48524.16,1
+Male,18-25,Salaried,High School,39797.75,633,0.487,32809.94,0
+Male,26-40,Salaried,Bachelors,75756.5,644,0.139,5987.37,1
+Male,60+,Self-Employed,Bachelors,32668.07,711,0.317,28480.52,1
+Male,26-40,Unemployed,Bachelors,55162.21,662,0.12,21344.13,1
+Female,26-40,Self-Employed,Masters/PhD,47030.05,711,0.354,31204.92,1
+Female,18-25,Unemployed,Bachelors,119814.87,554,0.312,19517.54,1
+Female,26-40,Gig/Contract,Masters/PhD,42373.67,660,0.538,10695.43,0
+Female,60+,Self-Employed,Masters/PhD,34229.18,569,0.384,27835.36,0
+Male,26-40,Self-Employed,High School,49728.87,626,0.21,27898.32,1
+Female,26-40,Salaried,Bachelors,69663.89,731,0.236,19489.73,1
+Female,26-40,Salaried,Masters/PhD,125577.19,760,0.305,49311.38,1
+Male,26-40,Unemployed,Bachelors,59596.13,785,0.438,39862.17,1
+Female,60+,Salaried,Bachelors,117144.45,666,0.35,5708.33,1
+Male,26-40,Salaried,Masters/PhD,30784.35,683,0.546,21962.75,1
+Female,60+,Salaried,Bachelors,94791.18,615,0.42,46921.26,1
+Female,60+,Salaried,Bachelors,127150.93,697,0.541,49939.43,1
+Male,41-60,Gig/Contract,Masters/PhD,53107.41,699,0.361,44142.08,0
+Male,18-25,Salaried,Bachelors,18777.32,619,0.404,43735.57,0
+Female,60+,Self-Employed,Bachelors,62703.03,774,0.481,13934.31,1
+Female,18-25,Salaried,High School,39806.47,696,0.513,46842.91,0
+Male,26-40,Self-Employed,High School,53608.26,638,0.127,8407.98,1
+Male,26-40,Salaried,Bachelors,32275.19,680,0.366,21521.44,1
+Female,26-40,Self-Employed,Masters/PhD,34112.03,632,0.301,5864.47,1
+Female,26-40,Salaried,Bachelors,95284.33,719,0.491,11547.93,1
+Female,41-60,Self-Employed,Masters/PhD,66209.83,742,0.23,15911.58,1
+Male,26-40,Salaried,Bachelors,23865.76,621,0.297,49431.21,0
+Female,26-40,Unemployed,High School,112050.24,723,0.12,17716.59,1
+Female,26-40,Salaried,Bachelors,33008.79,705,0.436,15927.99,1
+Male,18-25,Salaried,Bachelors,53966.92,671,0.158,8331.41,1
+Male,60+,Salaried,Bachelors,42554.16,676,0.44,16030.36,0
+Male,60+,Salaried,High School,19168.43,761,0.327,18861.14,1
+Female,60+,Salaried,High School,59361.84,682,0.194,30098.53,1
+Male,26-40,Self-Employed,Bachelors,70833.84,711,0.519,44328.07,1
+Male,41-60,Salaried,High School,53791.55,699,0.386,5789.87,1
+Male,18-25,Gig/Contract,High School,39438.73,710,0.291,27564.83,1
+Male,26-40,Salaried,Masters/PhD,62760.55,714,0.41,41589.74,1
+Male,26-40,Self-Employed,High School,28402.11,728,0.183,15465.58,1
+Female,18-25,Gig/Contract,Bachelors,46120.19,651,0.332,28102.66,0
+Male,41-60,Salaried,Bachelors,88498.77,729,0.332,19652.65,1
+Male,26-40,Salaried,Masters/PhD,51153.99,681,0.134,36193.42,1
+Female,26-40,Self-Employed,Bachelors,40291.62,645,0.508,31092.54,1
+Female,18-25,Self-Employed,High School,78863.97,716,0.231,45620.2,0
+Male,26-40,Self-Employed,High School,55349.57,690,0.521,9964.5,1
+Male,41-60,Salaried,Bachelors,63686.95,697,0.26,27018.59,1
+Male,26-40,Salaried,Masters/PhD,48275.52,769,0.126,45710.3,1
+Male,60+,Self-Employed,Bachelors,73873.09,603,0.136,46110.32,1
+Male,26-40,Gig/Contract,Bachelors,52832.99,629,0.293,15201.06,0
+Male,41-60,Salaried,High School,58202.48,594,0.317,24222.02,1
+Female,18-25,Gig/Contract,High School,24510.96,671,0.198,40146.38,1
+Female,18-25,Self-Employed,Bachelors,82950.65,605,0.339,27103.24,1
+Male,60+,Self-Employed,Bachelors,127529.45,604,0.449,14446.73,1
+Male,60+,Salaried,Bachelors,33922.03,727,0.191,40065.2,1
+Male,26-40,Salaried,Bachelors,40239.29,755,0.41,43430.69,1
+Female,26-40,Salaried,High School,85319.78,696,0.141,32137.44,1
+Female,26-40,Salaried,Bachelors,52085.93,605,0.33,24543.13,1
+Female,26-40,Salaried,Bachelors,91540.26,680,0.202,16778.44,1
+Female,18-25,Gig/Contract,High School,98243.43,672,0.35,37605.88,1
+Female,26-40,Salaried,High School,53967.43,741,0.251,41174.44,1
+Male,26-40,Self-Employed,Bachelors,58090.23,613,0.102,20994.28,1
+Male,26-40,Salaried,Bachelors,29333.73,757,0.235,42478.97,1
+Female,26-40,Salaried,High School,34292.71,601,0.186,16182.6,0
+Female,26-40,Gig/Contract,High School,56244.71,709,0.117,15069.75,1
+Female,41-60,Salaried,High School,26876.39,705,0.208,46285.94,0
+Male,26-40,Self-Employed,Bachelors,62563.29,683,0.361,19994.19,1
+Male,26-40,Salaried,Masters/PhD,47259.2,624,0.516,24696.23,0
+Male,41-60,Gig/Contract,Bachelors,99023.5,713,0.133,39924.24,1
+Male,18-25,Self-Employed,High School,97511.22,658,0.178,19639.75,0
+Male,18-25,Salaried,High School,79993.83,679,0.2,9157.73,1
+Male,60+,Unemployed,Bachelors,37332.36,803,0.48,5444.95,1
+Non-Binary,60+,Salaried,High School,128020.57,696,0.545,27804.33,1
+Male,26-40,Salaried,Bachelors,62608.18,624,0.165,33360.72,1
+Male,26-40,Gig/Contract,High School,73248.69,728,0.439,47591.28,0
+Male,26-40,Gig/Contract,High School,41199.79,604,0.21,17332.15,0
+Male,41-60,Salaried,Bachelors,83253.83,666,0.292,47342.1,1
+Male,41-60,Salaried,High School,48452.48,812,0.547,27288.57,1
+Male,18-25,Salaried,Masters/PhD,56919.95,684,0.165,27999.06,1
+Male,26-40,Salaried,Masters/PhD,127075.75,684,0.517,37634.02,1
+Female,18-25,Gig/Contract,High School,49213.34,652,0.265,5134.11,1
+Female,26-40,Unemployed,High School,71195.7,602,0.129,14979.9,0
+Female,26-40,Salaried,Bachelors,73301.31,725,0.537,19782.45,1
+Female,26-40,Gig/Contract,Bachelors,88081.02,631,0.285,26349.04,0
+Female,18-25,Salaried,High School,18066.83,753,0.157,45575.32,0
+Female,26-40,Salaried,Bachelors,58676.77,707,0.109,23757.19,1
+Male,26-40,Unemployed,Bachelors,36999.95,787,0.516,48803.12,1
+Female,26-40,Salaried,High School,64027.1,686,0.228,37908.07,1
+Male,41-60,Salaried,Bachelors,108639.77,708,0.255,41248.25,1
+Female,26-40,Salaried,High School,97308.7,648,0.324,42419.96,1
+Female,41-60,Salaried,Bachelors,97762.67,684,0.333,49870.11,1
+Male,26-40,Salaried,High School,44417.67,809,0.291,8383.13,1
+Male,26-40,Self-Employed,Bachelors,45746.15,725,0.204,19784.08,1
+Female,41-60,Salaried,Masters/PhD,62045.0,686,0.529,12640.78,1
+Male,60+,Salaried,Bachelors,59286.47,628,0.384,43579.91,1
+Female,60+,Salaried,Bachelors,50831.71,583,0.185,49278.81,1
+Female,41-60,Salaried,Bachelors,90382.74,675,0.111,41785.23,0
+Female,41-60,Salaried,Bachelors,31726.21,611,0.348,34559.3,1
+Male,41-60,Gig/Contract,Masters/PhD,34045.44,680,0.369,41067.88,1
+Female,18-25,Self-Employed,High School,70917.72,696,0.467,39267.83,1
+Male,26-40,Salaried,High School,92816.08,677,0.239,37615.22,1
+Female,41-60,Unemployed,Bachelors,34578.07,625,0.155,32943.49,1
+Female,26-40,Salaried,High School,140863.13,689,0.117,28721.96,1
+Male,41-60,Self-Employed,High School,49878.57,674,0.398,7089.51,1
+Male,18-25,Gig/Contract,Bachelors,40509.47,634,0.185,37397.28,0
+Non-Binary,60+,Self-Employed,High School,91305.2,609,0.242,16041.29,1
+Female,26-40,Salaried,High School,91719.12,758,0.232,41224.49,1
+Female,18-25,Salaried,Bachelors,45193.8,629,0.387,29863.39,0
+Female,26-40,Salaried,High School,22415.04,761,0.401,25548.3,1
+Female,26-40,Salaried,High School,67872.41,607,0.401,17643.25,1
+Male,26-40,Salaried,Bachelors,62267.74,819,0.529,46472.64,1
+Female,26-40,Self-Employed,Masters/PhD,72539.19,782,0.278,34285.87,1
+Male,26-40,Unemployed,High School,74418.01,712,0.359,22538.49,1
+Male,18-25,Self-Employed,Bachelors,65560.78,550,0.452,27733.61,0
+Female,18-25,Gig/Contract,Bachelors,60760.51,735,0.398,37784.42,1
+Male,26-40,Unemployed,Masters/PhD,28989.44,773,0.41,6198.43,0
+Female,18-25,Self-Employed,Masters/PhD,49865.59,742,0.475,40844.39,1
+Male,26-40,Salaried,Bachelors,94405.17,704,0.127,10731.92,1
+Male,41-60,Gig/Contract,High School,76207.59,651,0.279,41967.88,0
+Female,26-40,Salaried,High School,43948.6,643,0.16,10525.32,0
+Non-Binary,18-25,Salaried,Bachelors,77882.76,687,0.204,8025.05,1
+Female,60+,Self-Employed,Bachelors,50567.47,625,0.232,6725.71,1
+Non-Binary,60+,Salaried,Masters/PhD,26357.15,627,0.174,20095.79,0
+Male,26-40,Salaried,High School,76424.88,631,0.527,13302.07,1
+Male,26-40,Unemployed,Bachelors,14441.01,696,0.452,30076.18,0
+Male,26-40,Salaried,Bachelors,17265.65,724,0.187,32442.2,0
+Male,18-25,Self-Employed,Bachelors,79698.16,597,0.281,45889.78,0
+Female,26-40,Self-Employed,Bachelors,48919.26,656,0.11,10604.99,1
+Female,26-40,Salaried,Bachelors,70021.17,727,0.167,34679.61,1
+Female,26-40,Salaried,Bachelors,52042.48,617,0.2,13867.86,0
+Female,18-25,Salaried,Masters/PhD,59123.82,695,0.15,34038.77,1
+Male,41-60,Self-Employed,High School,30411.09,656,0.308,11880.74,1
+Female,18-25,Self-Employed,Bachelors,64133.14,666,0.487,42585.68,1
+Female,18-25,Gig/Contract,High School,49655.71,624,0.162,12186.03,0
+Female,60+,Gig/Contract,Bachelors,38745.07,688,0.134,7904.65,1
+Male,18-25,Self-Employed,Masters/PhD,95876.73,682,0.374,44662.59,1
+Male,18-25,Salaried,High School,51342.86,698,0.132,40135.45,1
+Female,26-40,Gig/Contract,Bachelors,78359.31,690,0.361,35055.57,1
+Female,26-40,Gig/Contract,Bachelors,45524.39,698,0.193,29514.9,0
+Female,18-25,Self-Employed,Masters/PhD,40468.67,632,0.47,49706.6,1
+Male,26-40,Salaried,Bachelors,56856.24,706,0.197,41031.12,1
+Female,18-25,Self-Employed,High School,69044.74,655,0.524,23703.87,1
+Female,41-60,Salaried,Masters/PhD,31602.94,686,0.284,38811.84,0
+Female,60+,Salaried,Bachelors,48580.45,647,0.539,32353.44,0
+Male,26-40,Salaried,High School,84037.43,681,0.459,41557.79,1
+Male,26-40,Salaried,Bachelors,40057.44,656,0.422,43212.34,1
+Female,41-60,Gig/Contract,High School,52801.3,825,0.547,8272.0,1
+Female,26-40,Salaried,Bachelors,123239.81,716,0.311,25787.66,1
+Female,26-40,Salaried,Bachelors,69589.18,697,0.289,35858.47,1
+Male,41-60,Salaried,Masters/PhD,47136.84,728,0.226,20866.94,1
+Female,18-25,Salaried,High School,36450.29,704,0.36,34486.47,0
+Female,26-40,Salaried,Bachelors,55031.88,725,0.472,42214.05,1
+Male,41-60,Salaried,Masters/PhD,74368.1,710,0.538,26289.54,1
+Male,26-40,Salaried,Bachelors,55161.62,672,0.305,29939.66,1
+Male,41-60,Gig/Contract,High School,80754.08,667,0.173,37274.25,1
+Non-Binary,26-40,Salaried,Bachelors,61394.15,682,0.534,40792.02,1
+Female,18-25,Self-Employed,Masters/PhD,88281.55,646,0.495,36973.81,1
+Female,18-25,Self-Employed,Bachelors,40963.97,659,0.327,12531.78,1
+Male,18-25,Self-Employed,Masters/PhD,73009.88,644,0.488,31017.3,0
+Male,41-60,Salaried,Masters/PhD,45330.45,728,0.328,39596.52,0
+Female,26-40,Gig/Contract,Bachelors,43174.02,700,0.404,20651.43,0
+Female,26-40,Salaried,Bachelors,63803.31,664,0.297,48767.88,1
+Female,26-40,Unemployed,Bachelors,48475.18,706,0.448,37076.25,1
+Female,26-40,Salaried,Bachelors,74797.67,627,0.472,15548.07,1
+Female,18-25,Salaried,Bachelors,68579.33,695,0.463,13657.24,1
+Female,18-25,Gig/Contract,Bachelors,51663.2,655,0.471,43240.18,1
+Female,26-40,Salaried,Bachelors,90057.07,707,0.469,18760.41,1
+Female,26-40,Salaried,High School,63974.65,667,0.483,32426.01,0
+Male,41-60,Salaried,Bachelors,44029.41,605,0.275,12126.83,0
+Female,18-25,Salaried,Bachelors,31418.31,643,0.548,10472.55,1
+Female,18-25,Self-Employed,High School,71679.76,757,0.369,37919.69,0
+Male,26-40,Self-Employed,High School,44169.33,668,0.181,7090.77,1
+Female,26-40,Salaried,Bachelors,75247.55,672,0.385,8592.75,0
+Female,41-60,Gig/Contract,High School,62673.75,762,0.344,20048.65,1
+Female,41-60,Gig/Contract,Masters/PhD,31638.2,742,0.305,39515.53,1
+Female,26-40,Gig/Contract,Bachelors,56493.96,616,0.49,5649.89,0
+Non-Binary,26-40,Salaried,Bachelors,68561.53,552,0.511,9318.13,0
+Female,26-40,Salaried,Bachelors,52682.84,623,0.413,8239.19,0
+Male,26-40,Gig/Contract,High School,32352.26,682,0.393,37371.01,1
+Non-Binary,18-25,Salaried,High School,49230.59,731,0.48,45323.72,0
+Male,26-40,Salaried,Masters/PhD,82198.66,666,0.485,36288.76,0
+Male,26-40,Self-Employed,Bachelors,83666.2,722,0.529,9647.43,1
+Male,60+,Self-Employed,Bachelors,53346.81,668,0.5,40337.04,0
+Female,60+,Salaried,High School,100674.38,736,0.222,41887.02,1
+Non-Binary,26-40,Salaried,Masters/PhD,54132.47,655,0.285,46412.87,1
+Male,41-60,Salaried,High School,27070.58,699,0.515,10443.1,1
+Female,18-25,Salaried,High School,122247.88,685,0.518,9722.04,1
+Female,18-25,Gig/Contract,Bachelors,34377.58,736,0.405,45504.36,0
+Female,18-25,Self-Employed,High School,64485.36,734,0.115,21417.85,1
+Male,18-25,Salaried,Masters/PhD,41313.92,732,0.358,48319.35,0
+Female,26-40,Salaried,Bachelors,85365.82,656,0.411,42419.13,1
+Male,26-40,Gig/Contract,Masters/PhD,34003.69,706,0.146,7620.96,0
+Male,26-40,Salaried,High School,83194.87,768,0.175,12839.07,1
+Female,26-40,Salaried,Bachelors,59235.72,573,0.451,32524.13,0
+Male,41-60,Self-Employed,Bachelors,51008.61,745,0.452,35732.2,1
+Male,60+,Gig/Contract,Bachelors,31894.53,706,0.105,40800.09,0
+Female,26-40,Unemployed,High School,52803.12,771,0.132,40684.35,1
+Male,26-40,Gig/Contract,High School,62686.59,546,0.498,8882.29,0
+Female,18-25,Self-Employed,High School,57696.43,683,0.203,5921.53,0
+Male,26-40,Gig/Contract,High School,53856.05,698,0.392,39480.75,1
+Non-Binary,26-40,Salaried,Bachelors,66618.93,747,0.255,46072.7,1
+Non-Binary,60+,Salaried,Bachelors,44009.43,761,0.186,8022.89,1
+Female,26-40,Salaried,Masters/PhD,38893.57,679,0.254,40849.63,1
+Male,18-25,Salaried,High School,61207.37,634,0.344,7739.27,1
+Male,26-40,Salaried,Masters/PhD,46151.87,667,0.324,23760.81,1
+Male,18-25,Unemployed,Masters/PhD,106061.97,667,0.247,45322.55,1
+Female,18-25,Unemployed,Bachelors,62164.51,671,0.452,16539.29,1
+Non-Binary,41-60,Self-Employed,Bachelors,73630.34,618,0.245,28153.4,1
+Female,26-40,Salaried,Bachelors,21528.8,628,0.314,15236.4,0
+Female,60+,Gig/Contract,Masters/PhD,58933.0,708,0.236,34000.36,1
+Male,41-60,Gig/Contract,High School,68743.1,673,0.344,17807.32,1
+Male,18-25,Salaried,Masters/PhD,39968.35,771,0.238,38457.44,0
+Male,26-40,Self-Employed,Bachelors,33721.23,671,0.262,25922.98,0
+Male,26-40,Salaried,Bachelors,47925.13,652,0.434,38902.34,0
+Female,41-60,Salaried,Bachelors,101027.46,714,0.526,17658.27,1
+Male,26-40,Salaried,High School,55423.68,699,0.312,43410.46,1
+Male,26-40,Gig/Contract,Bachelors,39534.65,674,0.361,40566.57,1
+Female,26-40,Salaried,Bachelors,57145.76,617,0.203,41894.46,0
+Female,18-25,Gig/Contract,Masters/PhD,65931.05,744,0.356,22753.52,1
+Female,18-25,Salaried,Bachelors,58188.46,688,0.492,46887.46,0
+Male,26-40,Gig/Contract,Masters/PhD,38900.39,814,0.19,36931.06,1
+Female,41-60,Unemployed,Masters/PhD,22214.18,718,0.398,44708.95,0
+Male,26-40,Salaried,High School,36447.54,690,0.421,46836.39,0
+Female,41-60,Salaried,Masters/PhD,72148.81,575,0.529,45556.47,1
+Male,26-40,Salaried,Bachelors,31678.93,679,0.503,7836.17,0
+Female,26-40,Self-Employed,Bachelors,47661.73,672,0.532,8762.1,1
+Male,26-40,Self-Employed,High School,71612.59,725,0.213,8877.5,1
+Female,26-40,Salaried,Bachelors,53464.73,730,0.47,38414.17,1
+Female,41-60,Self-Employed,Bachelors,70267.15,686,0.461,16956.29,1
+Female,41-60,Salaried,High School,41577.17,661,0.42,40695.79,0
+Male,18-25,Self-Employed,Bachelors,46173.18,568,0.142,30192.66,0
+Male,41-60,Salaried,Bachelors,101266.65,723,0.366,21323.16,1
+Male,41-60,Salaried,Bachelors,38231.11,672,0.464,22923.95,1
+Female,18-25,Self-Employed,Bachelors,88621.16,631,0.367,7285.26,1
+Male,26-40,Self-Employed,High School,31764.7,692,0.419,11612.21,0
+Male,41-60,Salaried,Bachelors,50717.69,733,0.227,34705.27,1
+Female,26-40,Salaried,Masters/PhD,50774.24,645,0.257,34668.12,0
+Male,18-25,Unemployed,Masters/PhD,80123.1,676,0.532,27985.17,1
+Non-Binary,41-60,Salaried,Masters/PhD,37424.54,701,0.158,39711.69,1
+Female,41-60,Salaried,Bachelors,42857.58,659,0.129,17657.53,0
+Female,41-60,Salaried,Bachelors,93664.01,708,0.24,43580.06,1
+Male,26-40,Self-Employed,Bachelors,36799.66,699,0.304,41760.53,0
+Male,26-40,Salaried,Masters/PhD,31779.22,570,0.295,28546.12,0
+Male,26-40,Gig/Contract,Bachelors,34657.33,723,0.217,40329.2,0
+Female,18-25,Salaried,Masters/PhD,33432.77,677,0.395,39754.39,1
+Female,41-60,Self-Employed,Bachelors,56519.94,755,0.522,26167.84,1
+Male,41-60,Salaried,Bachelors,39267.41,732,0.155,19153.06,1
+Female,18-25,Self-Employed,Bachelors,54413.8,770,0.268,28940.33,1
+Male,60+,Gig/Contract,Bachelors,48444.87,736,0.158,14304.46,1
+Male,26-40,Salaried,Bachelors,57567.32,672,0.466,33603.26,1
+Female,41-60,Salaried,High School,111757.1,772,0.328,14185.5,1
+Female,41-60,Salaried,Bachelors,40862.47,735,0.167,30377.38,1
+Non-Binary,41-60,Salaried,Masters/PhD,17628.6,759,0.359,25390.64,1
+Female,41-60,Salaried,Bachelors,57083.81,780,0.358,38438.43,1
+Female,41-60,Salaried,Masters/PhD,75792.27,591,0.263,44640.89,1
+Female,41-60,Self-Employed,Bachelors,38032.6,666,0.355,6757.53,1
+Male,41-60,Salaried,High School,79268.46,757,0.299,47855.82,1
+Male,26-40,Self-Employed,Masters/PhD,38204.25,750,0.178,41708.82,1
+Male,41-60,Self-Employed,Bachelors,109976.46,724,0.33,39201.01,1
+Female,41-60,Salaried,Bachelors,49502.72,664,0.194,14916.64,0
+Male,60+,Salaried,Masters/PhD,71454.98,782,0.248,26468.47,1
+Female,18-25,Self-Employed,High School,58700.46,701,0.538,30596.02,1
+Female,41-60,Salaried,Bachelors,51140.6,621,0.198,21532.43,0
+Female,18-25,Salaried,Bachelors,50604.66,752,0.211,43104.52,1
+Female,41-60,Salaried,High School,42126.43,714,0.319,38105.99,1
+Male,41-60,Salaried,Bachelors,51120.11,645,0.237,38869.43,1
+Male,60+,Salaried,Bachelors,77470.32,716,0.351,5759.02,1
+Female,26-40,Salaried,Bachelors,44353.03,704,0.453,28693.69,1
+Female,41-60,Salaried,Bachelors,49177.87,694,0.523,28408.07,1
+Male,41-60,Self-Employed,Masters/PhD,20123.81,630,0.172,46151.38,0
+Female,18-25,Salaried,Masters/PhD,16810.32,558,0.165,20985.93,0
+Female,41-60,Salaried,Masters/PhD,95142.11,708,0.246,27600.71,1
+Non-Binary,18-25,Gig/Contract,Bachelors,72879.1,739,0.107,27719.46,1
+Female,26-40,Salaried,Bachelors,62196.17,688,0.501,6180.75,1
+Non-Binary,41-60,Salaried,Bachelors,39242.96,729,0.377,30691.5,1
+Male,41-60,Salaried,Bachelors,49533.47,790,0.408,30522.79,1
+Female,41-60,Salaried,Bachelors,48522.18,709,0.251,23559.33,1
+Female,41-60,Self-Employed,High School,73155.3,590,0.453,13017.59,1
+Male,26-40,Salaried,Bachelors,37711.86,669,0.419,41951.4,0
+Female,18-25,Salaried,High School,60400.51,769,0.368,16097.3,1
+Female,18-25,Salaried,High School,40946.78,624,0.283,48006.48,1
+Female,60+,Self-Employed,Masters/PhD,30497.29,709,0.469,14965.13,0
+Non-Binary,26-40,Salaried,Masters/PhD,58606.16,674,0.475,7464.37,1
+Female,26-40,Salaried,Bachelors,61863.33,776,0.515,49276.77,1
+Female,26-40,Salaried,High School,80272.35,715,0.467,42782.25,1
+Female,26-40,Salaried,Bachelors,34691.08,628,0.207,5873.7,1
+Male,26-40,Self-Employed,Bachelors,37776.34,627,0.526,25613.1,0
+Male,26-40,Salaried,Bachelors,80285.05,726,0.304,36908.9,1
+Non-Binary,26-40,Self-Employed,High School,53600.84,758,0.486,18128.53,1
+Female,26-40,Salaried,High School,70084.46,657,0.422,37635.04,1
+Male,41-60,Gig/Contract,High School,60932.92,671,0.12,6032.68,1
+Male,26-40,Salaried,Masters/PhD,70244.23,767,0.295,19371.72,1
+Female,26-40,Salaried,Masters/PhD,59032.79,732,0.328,46850.86,1
+Male,26-40,Salaried,Masters/PhD,57958.48,768,0.504,38686.36,1
+Male,26-40,Salaried,Bachelors,50916.84,679,0.285,16735.61,0
+Male,18-25,Self-Employed,High School,71979.88,678,0.498,24563.83,1
+Female,26-40,Self-Employed,Bachelors,61826.98,725,0.549,21162.67,1
+Female,26-40,Salaried,High School,60909.8,697,0.128,41857.59,1
+Male,26-40,Salaried,Masters/PhD,25140.26,670,0.22,31351.63,1
+Female,18-25,Self-Employed,Bachelors,58565.41,603,0.315,26422.3,0
+Female,60+,Salaried,Bachelors,87804.43,587,0.492,17875.44,1
+Female,18-25,Self-Employed,Bachelors,83831.62,596,0.161,23215.79,0
+Male,41-60,Salaried,Bachelors,108454.58,632,0.407,26827.37,1
+Female,26-40,Salaried,Bachelors,49512.29,681,0.543,45805.52,1
+Female,41-60,Salaried,Bachelors,93353.41,686,0.444,24801.87,1
+Male,41-60,Salaried,Bachelors,94792.5,670,0.515,37447.93,1
+Female,26-40,Salaried,High School,37221.31,536,0.195,25413.86,0
+Male,26-40,Salaried,Masters/PhD,17715.95,690,0.309,17536.33,0
+Non-Binary,60+,Salaried,High School,44078.39,694,0.374,46161.04,0
+Female,41-60,Salaried,High School,57163.34,700,0.507,45973.22,1
+Female,26-40,Salaried,High School,42067.95,700,0.509,49462.45,0
+Male,26-40,Salaried,Masters/PhD,50192.01,696,0.161,34978.25,1
+Female,26-40,Self-Employed,High School,10259.65,645,0.446,46784.38,0
+Male,26-40,Salaried,High School,28481.72,617,0.326,15402.46,0
+Male,26-40,Gig/Contract,Bachelors,59738.34,658,0.476,5044.63,1
+Male,18-25,Salaried,Bachelors,43576.37,591,0.11,17569.9,0
+Non-Binary,41-60,Salaried,High School,33891.02,621,0.431,33082.63,0
+Female,41-60,Salaried,High School,80064.59,672,0.373,10189.06,1
+Female,41-60,Self-Employed,Masters/PhD,31779.74,699,0.288,18274.68,1
+Female,26-40,Salaried,Bachelors,67996.73,662,0.244,21793.26,1
+Male,18-25,Self-Employed,Bachelors,48033.34,697,0.197,13279.03,1
+Male,26-40,Self-Employed,Bachelors,58088.37,652,0.504,31224.43,1
+Non-Binary,26-40,Salaried,Bachelors,108238.34,751,0.106,28545.99,1
+Male,18-25,Salaried,High School,83586.98,621,0.1,17282.97,0
+Male,60+,Self-Employed,Masters/PhD,52040.14,637,0.435,34915.86,1
+Female,26-40,Salaried,Bachelors,55716.91,702,0.488,47344.95,1
+Male,18-25,Gig/Contract,Bachelors,45239.46,620,0.18,22643.06,0
+Male,26-40,Self-Employed,High School,125868.34,630,0.382,42861.18,1
+Female,41-60,Salaried,Bachelors,49703.18,654,0.249,26995.21,1
+Male,26-40,Gig/Contract,Masters/PhD,21487.61,757,0.206,10312.65,1
+Male,26-40,Gig/Contract,High School,21532.7,680,0.517,12924.34,1
+Male,26-40,Unemployed,Bachelors,15929.66,637,0.515,9244.58,1
+Male,26-40,Salaried,Bachelors,59074.86,687,0.443,41715.71,0
+Male,26-40,Self-Employed,Bachelors,108758.44,695,0.432,45915.08,1
+Male,41-60,Salaried,Masters/PhD,75803.61,732,0.152,40182.32,1
+Male,26-40,Salaried,Bachelors,118892.88,631,0.13,23422.41,1
+Male,26-40,Salaried,Masters/PhD,62276.37,772,0.371,5900.23,1
+Male,41-60,Salaried,Masters/PhD,10535.0,771,0.531,9236.6,1
+Male,26-40,Self-Employed,High School,75856.94,665,0.515,32859.25,1
+Male,41-60,Salaried,Bachelors,23570.61,690,0.264,10503.69,1
+Female,26-40,Salaried,Bachelors,20452.92,764,0.185,14601.74,1
+Male,26-40,Salaried,Bachelors,71666.7,628,0.245,40578.23,1
+Male,18-25,Self-Employed,Bachelors,47421.48,682,0.4,43052.22,0
+Male,26-40,Salaried,Bachelors,42050.84,604,0.117,7473.38,0
+Female,18-25,Salaried,Masters/PhD,85597.63,742,0.331,21445.44,1
+Male,41-60,Salaried,Bachelors,75728.48,592,0.51,42028.5,0
+Female,41-60,Self-Employed,Bachelors,44543.39,736,0.261,21888.85,1
+Female,26-40,Salaried,Masters/PhD,61873.12,658,0.16,12780.99,1
+Female,18-25,Salaried,High School,70474.46,813,0.393,36790.51,1
+Female,18-25,Salaried,Bachelors,22665.81,701,0.494,14608.33,0
+Male,26-40,Salaried,High School,142563.3,591,0.249,19675.95,1
+Female,26-40,Self-Employed,Bachelors,53017.14,710,0.221,14845.49,1
+Male,41-60,Gig/Contract,Bachelors,77304.62,594,0.548,29426.49,0
+Female,41-60,Salaried,Bachelors,131595.34,765,0.51,6001.26,1
+Male,26-40,Self-Employed,High School,70664.46,707,0.422,37670.33,1
+Male,26-40,Salaried,Masters/PhD,91933.23,634,0.225,5944.32,1
+Male,60+,Self-Employed,High School,67166.85,683,0.339,42231.6,1
+Male,41-60,Gig/Contract,Bachelors,49341.57,689,0.275,18392.51,0
+Female,18-25,Gig/Contract,Masters/PhD,71151.67,511,0.336,9207.19,0
+Female,26-40,Salaried,Bachelors,71894.76,647,0.443,31927.05,0
+Female,60+,Salaried,Bachelors,31523.67,781,0.479,10947.03,0
+Non-Binary,41-60,Salaried,Bachelors,37444.78,758,0.536,14069.21,1
+Female,18-25,Salaried,Masters/PhD,68425.8,733,0.482,40800.89,1
+Male,41-60,Salaried,Masters/PhD,14453.84,671,0.46,7174.95,0
+Female,26-40,Gig/Contract,High School,78610.51,724,0.328,8318.49,1
+Male,41-60,Self-Employed,Bachelors,38029.45,806,0.339,38718.18,1
+Male,18-25,Self-Employed,High School,106055.84,743,0.346,10800.73,1
+Male,26-40,Salaried,High School,47410.8,643,0.19,20300.42,1
+Female,18-25,Salaried,High School,68633.65,740,0.483,5490.81,1
+Male,41-60,Self-Employed,Masters/PhD,39537.14,630,0.102,27000.2,0
+Male,26-40,Salaried,Masters/PhD,84515.81,754,0.144,15922.96,1
+Male,41-60,Salaried,High School,62044.63,727,0.341,8665.44,1
+Female,26-40,Salaried,High School,58109.17,618,0.402,28911.55,1
+Male,26-40,Self-Employed,High School,70981.16,717,0.436,46723.31,1
+Female,41-60,Self-Employed,Bachelors,38113.17,642,0.323,10498.85,1
+Male,41-60,Self-Employed,High School,31621.78,704,0.272,32355.69,1
+Female,41-60,Salaried,Bachelors,129956.64,720,0.321,21247.69,1
+Male,18-25,Self-Employed,Bachelors,38822.85,659,0.408,16370.34,0
+Female,26-40,Salaried,Bachelors,53735.21,790,0.103,27381.38,1
+Male,26-40,Self-Employed,High School,79356.82,762,0.368,14899.35,1
+Non-Binary,26-40,Salaried,Masters/PhD,36150.66,697,0.49,39598.49,0
+Female,26-40,Salaried,Bachelors,34390.04,682,0.413,8826.46,0
+Male,60+,Salaried,Bachelors,65477.56,733,0.492,39961.14,1
+Male,26-40,Gig/Contract,Bachelors,27766.85,727,0.298,32436.58,1
+Female,26-40,Salaried,High School,120640.76,697,0.173,44578.47,1
+Male,26-40,Gig/Contract,Bachelors,45457.88,735,0.145,41593.31,1
+Male,26-40,Salaried,Bachelors,55256.3,754,0.479,10913.24,1
+Female,26-40,Gig/Contract,Bachelors,49465.32,765,0.359,8552.97,1
+Female,18-25,Self-Employed,Masters/PhD,174925.26,680,0.25,46344.4,1
+Female,26-40,Salaried,High School,59876.48,630,0.46,37656.4,1
+Male,41-60,Gig/Contract,High School,60475.22,707,0.119,15366.54,1
+Male,26-40,Salaried,High School,71059.13,656,0.116,40036.08,1
+Male,18-25,Salaried,Bachelors,57370.89,739,0.531,27915.3,1
+Female,26-40,Salaried,Masters/PhD,34863.79,715,0.415,21982.6,1
+Female,41-60,Gig/Contract,Bachelors,67413.87,765,0.496,33051.68,1
+Female,26-40,Salaried,Bachelors,33202.2,781,0.355,27726.22,1
+Male,41-60,Salaried,High School,85705.54,645,0.217,43559.96,1
+Female,26-40,Salaried,Bachelors,43517.47,750,0.201,28131.85,1
+Female,41-60,Self-Employed,Masters/PhD,82212.06,729,0.279,18650.09,1
+Female,26-40,Self-Employed,High School,45386.2,541,0.222,18072.92,0
+Male,26-40,Salaried,Masters/PhD,50359.0,719,0.205,18138.92,0
+Female,26-40,Salaried,Bachelors,13673.45,658,0.11,35842.79,1
+Female,18-25,Salaried,Bachelors,69859.92,628,0.23,43355.65,1
+Male,26-40,Salaried,Masters/PhD,106889.46,733,0.183,46895.35,1
+Non-Binary,18-25,Salaried,Bachelors,21247.74,755,0.16,48694.4,1
+Male,26-40,Salaried,Masters/PhD,119559.42,707,0.382,31163.21,1
+Female,26-40,Gig/Contract,High School,90077.98,732,0.383,8763.94,1
+Female,18-25,Salaried,High School,55148.24,663,0.285,36557.56,1
+Female,26-40,Gig/Contract,Bachelors,68477.29,696,0.302,10168.52,1
+Male,26-40,Salaried,Masters/PhD,63602.74,737,0.184,26745.63,1
+Male,26-40,Gig/Contract,Bachelors,34554.48,725,0.442,42443.97,0
+Female,41-60,Salaried,Masters/PhD,38208.82,628,0.388,30589.23,0
+Female,26-40,Salaried,Masters/PhD,37818.09,653,0.268,37297.75,0
+Female,26-40,Gig/Contract,Bachelors,58840.17,703,0.297,45251.54,1
+Female,18-25,Self-Employed,Masters/PhD,36505.65,666,0.391,11895.45,1
+Male,26-40,Salaried,Masters/PhD,31930.74,578,0.287,42797.34,0
+Male,18-25,Unemployed,Bachelors,46705.11,641,0.466,49869.14,0
+Female,26-40,Salaried,Masters/PhD,43404.06,678,0.432,26031.14,0
+Female,26-40,Self-Employed,Bachelors,96834.03,677,0.52,8627.51,1
+Female,60+,Self-Employed,High School,37358.86,480,0.348,15400.93,0
+Female,26-40,Salaried,High School,31976.88,728,0.229,25026.89,0
+Male,60+,Salaried,Bachelors,79284.02,718,0.54,43715.9,1
+Female,26-40,Salaried,Bachelors,111668.76,702,0.196,46708.18,1
+Female,18-25,Self-Employed,High School,39751.59,621,0.512,31825.91,0
+Female,26-40,Salaried,High School,28779.51,745,0.351,37264.95,0
+Male,26-40,Salaried,High School,66454.73,638,0.126,19950.65,1
+Male,18-25,Salaried,Bachelors,34876.43,716,0.135,6324.91,1
+Male,41-60,Salaried,Bachelors,92175.41,642,0.14,30505.99,1
+Male,26-40,Gig/Contract,Bachelors,73808.9,776,0.407,45559.29,1
+Male,18-25,Salaried,Bachelors,45744.51,519,0.282,24503.39,0
+Female,60+,Salaried,Masters/PhD,81370.73,640,0.172,19130.02,1
+Male,60+,Salaried,Bachelors,136493.71,727,0.141,49346.68,1
+Non-Binary,18-25,Salaried,Bachelors,24109.43,670,0.296,33406.06,0
+Male,26-40,Salaried,Masters/PhD,37474.42,811,0.359,25027.04,1
+Male,26-40,Self-Employed,Masters/PhD,120033.95,651,0.271,46126.25,1
+Female,18-25,Gig/Contract,Masters/PhD,61655.55,693,0.447,30116.42,1
+Male,18-25,Unemployed,High School,75496.01,669,0.212,20312.89,1
+Female,18-25,Salaried,Bachelors,67200.59,655,0.139,18552.45,0
+Male,41-60,Salaried,Bachelors,31899.3,660,0.536,29110.96,0
+Male,60+,Salaried,Masters/PhD,64007.02,690,0.536,30487.18,0
+Male,26-40,Salaried,Bachelors,42096.12,652,0.269,23542.22,1
+Male,41-60,Salaried,High School,22924.41,605,0.539,22480.85,0
+Female,26-40,Salaried,Bachelors,134882.31,726,0.167,30226.91,1
+Male,18-25,Salaried,Bachelors,82017.05,722,0.27,12690.67,1
+Male,26-40,Self-Employed,Masters/PhD,39469.45,726,0.238,6909.79,1
+Female,26-40,Gig/Contract,Bachelors,64508.24,686,0.157,49269.3,1
+Male,41-60,Salaried,Bachelors,67326.23,513,0.166,21555.99,0
+Male,41-60,Unemployed,Bachelors,68208.49,671,0.275,35138.67,1
+Female,60+,Gig/Contract,Bachelors,75013.77,672,0.388,34310.3,1
+Female,26-40,Salaried,High School,121608.62,763,0.273,46189.7,1
+Male,26-40,Salaried,Masters/PhD,51144.84,658,0.505,44567.09,0
+Male,26-40,Self-Employed,Masters/PhD,60856.39,545,0.487,34527.9,0
+Male,18-25,Salaried,Bachelors,52114.31,635,0.304,38573.88,1
+Female,60+,Salaried,High School,43311.6,707,0.247,43082.48,1
+Male,26-40,Self-Employed,Bachelors,46477.21,713,0.382,8653.18,0
+Female,41-60,Salaried,High School,50957.08,645,0.292,42094.96,1
+Male,26-40,Salaried,Bachelors,40671.88,706,0.123,27722.65,1
+Female,18-25,Salaried,High School,42334.55,667,0.313,29518.41,0
+Male,26-40,Salaried,Masters/PhD,43405.1,707,0.47,23018.21,1
+Female,26-40,Salaried,Bachelors,59801.0,646,0.345,17789.48,0
+Male,26-40,Salaried,Bachelors,73324.49,590,0.271,36165.38,0
+Non-Binary,18-25,Self-Employed,High School,80158.23,671,0.445,24421.79,1
+Non-Binary,18-25,Gig/Contract,High School,66524.53,642,0.422,31878.09,0
+Female,41-60,Self-Employed,High School,43726.99,706,0.55,48123.92,0
+Female,26-40,Salaried,High School,87201.08,617,0.423,9071.88,1
+Male,60+,Salaried,Masters/PhD,96508.98,670,0.4,11865.58,1
+Male,26-40,Self-Employed,Bachelors,53507.98,641,0.213,44485.92,1
+Male,26-40,Salaried,High School,106270.66,705,0.331,37060.28,1
+Female,18-25,Salaried,Masters/PhD,37586.58,749,0.365,18846.15,1
+Female,41-60,Self-Employed,High School,91134.53,740,0.434,36190.95,1
+Female,26-40,Self-Employed,Bachelors,51638.56,793,0.395,23081.87,1
+Female,41-60,Salaried,High School,72028.46,685,0.195,49945.68,1
+Female,26-40,Salaried,Bachelors,93496.54,767,0.131,13252.27,1
+Female,18-25,Salaried,Masters/PhD,73833.01,702,0.417,6806.08,1
+Female,26-40,Self-Employed,High School,61213.06,713,0.321,25902.17,1
+Male,26-40,Self-Employed,Bachelors,68374.01,640,0.42,15742.12,1
+Female,41-60,Salaried,Bachelors,73962.38,737,0.549,22641.22,1
+Male,26-40,Gig/Contract,Bachelors,51952.93,641,0.158,48282.49,1
+Male,26-40,Self-Employed,Bachelors,63268.21,682,0.373,45424.49,1
+Male,18-25,Salaried,Bachelors,39624.77,689,0.158,27851.13,1
+Male,41-60,Salaried,Bachelors,90863.38,672,0.233,28166.6,1
+Female,26-40,Salaried,Bachelors,32584.2,604,0.457,33368.72,0
+Female,41-60,Salaried,Bachelors,58911.41,662,0.241,47318.76,1
+Female,41-60,Salaried,Bachelors,39562.58,725,0.137,17828.1,1
+Female,26-40,Unemployed,High School,65915.57,643,0.108,43950.88,1
+Male,26-40,Self-Employed,Bachelors,21378.07,597,0.183,20809.13,0
+Female,26-40,Gig/Contract,High School,25117.81,585,0.378,43278.2,0
+Non-Binary,60+,Salaried,High School,54564.59,689,0.325,21951.73,0
+Non-Binary,60+,Salaried,Bachelors,79098.92,625,0.459,8241.66,1
+Female,41-60,Salaried,Bachelors,90266.71,681,0.533,15820.17,0
+Male,26-40,Self-Employed,Bachelors,68780.21,663,0.44,15828.14,0
+Male,26-40,Salaried,Bachelors,48089.15,750,0.337,19913.21,1
+Male,26-40,Salaried,Bachelors,71728.13,580,0.327,45947.35,1
+Female,18-25,Unemployed,High School,40294.23,674,0.106,6240.57,1
+Female,18-25,Self-Employed,High School,44840.61,748,0.317,37244.71,1
+Female,26-40,Salaried,Bachelors,155709.94,690,0.171,45742.7,1
+Female,26-40,Self-Employed,Masters/PhD,10765.6,768,0.526,28157.58,0
+Male,18-25,Gig/Contract,High School,40970.37,791,0.205,39167.12,1
+Female,26-40,Salaried,Bachelors,60410.53,625,0.43,9123.19,0
+Female,26-40,Gig/Contract,Masters/PhD,83542.32,734,0.522,26095.04,1
+Female,18-25,Salaried,High School,30250.97,717,0.537,49104.46,0
+Male,18-25,Salaried,Masters/PhD,67022.25,722,0.361,33979.75,1
+Female,41-60,Salaried,Masters/PhD,135079.01,706,0.172,44027.77,1
+Female,26-40,Gig/Contract,Bachelors,60780.89,625,0.202,10896.28,1
+Female,26-40,Salaried,Masters/PhD,42202.14,716,0.526,37661.92,1
+Female,41-60,Gig/Contract,Bachelors,52564.49,635,0.527,49226.11,0
+Male,41-60,Salaried,Bachelors,60522.82,633,0.471,38295.89,0
+Female,18-25,Unemployed,High School,31058.35,638,0.41,47919.68,1
+Male,26-40,Self-Employed,Bachelors,89806.46,732,0.357,27123.74,1
+Male,18-25,Salaried,High School,71397.86,697,0.156,36260.71,1
+Male,26-40,Self-Employed,High School,45516.79,584,0.122,11237.95,1
+Male,41-60,Salaried,Masters/PhD,51077.92,613,0.231,13012.94,1
+Female,26-40,Unemployed,High School,78514.77,572,0.448,24015.32,1
+Male,26-40,Salaried,High School,46797.81,690,0.208,43017.29,1
+Female,41-60,Salaried,Bachelors,53740.2,540,0.516,48038.88,0
+Female,26-40,Salaried,High School,41072.64,623,0.242,38608.11,0
+Male,18-25,Gig/Contract,Bachelors,28417.33,722,0.261,18597.71,1
+Female,26-40,Gig/Contract,High School,8723.34,807,0.106,11777.84,1
+Female,41-60,Salaried,Bachelors,100117.87,693,0.298,25754.11,1
+Male,41-60,Self-Employed,Masters/PhD,95885.26,656,0.367,46297.66,1
+Female,26-40,Unemployed,Bachelors,49281.91,689,0.359,35377.34,1
+Female,26-40,Gig/Contract,Bachelors,58074.25,735,0.408,34188.68,1
+Male,18-25,Unemployed,High School,35878.35,788,0.305,12717.94,0
+Female,41-60,Salaried,High School,44953.64,750,0.146,8653.76,1
+Female,18-25,Salaried,Masters/PhD,55028.71,689,0.189,5446.54,1
+Female,26-40,Salaried,Bachelors,40315.47,613,0.488,30758.65,0
+Female,26-40,Salaried,Bachelors,61401.32,654,0.174,27762.84,1
+Male,26-40,Salaried,High School,77460.81,688,0.534,47262.17,1
+Female,18-25,Self-Employed,Bachelors,61552.77,619,0.199,19972.02,1
+Female,26-40,Gig/Contract,Bachelors,71264.24,637,0.43,5196.68,1
+Female,26-40,Salaried,Bachelors,46261.6,673,0.149,24349.66,1
+Male,18-25,Self-Employed,Bachelors,54513.29,666,0.425,48852.49,0
+Female,26-40,Salaried,Bachelors,44456.53,682,0.187,19690.22,0
+Female,18-25,Salaried,Bachelors,39260.9,714,0.543,18826.47,0
+Female,18-25,Self-Employed,High School,47118.77,750,0.47,13907.74,1
+Female,18-25,Salaried,Bachelors,39816.39,764,0.23,40085.8,1
+Female,26-40,Salaried,Masters/PhD,64861.72,662,0.323,36699.43,0
+Male,41-60,Self-Employed,Bachelors,52955.01,695,0.148,47486.79,1
+Male,60+,Gig/Contract,High School,150188.63,640,0.383,45509.74,1
+Female,18-25,Salaried,Bachelors,67193.45,660,0.502,16226.6,0
+Female,41-60,Self-Employed,Bachelors,80922.19,806,0.337,47834.77,1
+Female,41-60,Salaried,Masters/PhD,44964.07,716,0.142,14771.91,1
+Male,26-40,Salaried,Bachelors,74813.14,753,0.204,18716.59,1
+Male,18-25,Salaried,Bachelors,95127.39,780,0.503,34242.01,1
+Female,18-25,Salaried,Bachelors,48943.7,640,0.448,10355.24,1
+Male,18-25,Gig/Contract,Bachelors,62222.21,660,0.186,15713.92,0
+Male,18-25,Salaried,Bachelors,25315.35,746,0.146,19968.1,1
+Male,41-60,Salaried,Bachelors,90016.67,670,0.37,18088.7,1
+Male,26-40,Self-Employed,Bachelors,75946.96,645,0.51,24514.07,1
+Female,41-60,Salaried,Bachelors,106842.03,626,0.148,23596.3,1
+Male,18-25,Salaried,Masters/PhD,64342.41,671,0.253,13599.79,0
+Male,41-60,Salaried,High School,50330.6,683,0.211,22162.44,1
+Male,41-60,Gig/Contract,Masters/PhD,87032.91,735,0.368,39420.03,1
+Non-Binary,41-60,Gig/Contract,High School,73165.4,664,0.155,43835.35,1
+Female,41-60,Self-Employed,Bachelors,30151.17,763,0.543,25271.03,1
+Female,41-60,Salaried,High School,109583.53,646,0.284,11307.04,1
+Female,41-60,Salaried,Bachelors,100754.22,624,0.541,48698.33,1
+Female,41-60,Salaried,Bachelors,53394.67,697,0.373,28411.5,1
+Female,60+,Self-Employed,High School,73316.6,604,0.235,27878.74,1
+Female,18-25,Salaried,High School,74129.79,638,0.328,36512.8,0
+Male,26-40,Unemployed,Bachelors,103578.86,687,0.491,22783.61,1
+Female,26-40,Gig/Contract,Bachelors,46650.89,707,0.426,29632.16,0
+Female,18-25,Salaried,Masters/PhD,55680.05,661,0.16,17464.11,1
+Male,18-25,Gig/Contract,Bachelors,79726.81,762,0.23,19919.49,1
+Female,26-40,Self-Employed,Masters/PhD,47532.72,692,0.161,22031.23,1
+Male,41-60,Gig/Contract,Bachelors,72591.09,710,0.471,37146.43,0
+Female,60+,Salaried,Bachelors,69089.16,756,0.548,33262.45,1
+Male,26-40,Gig/Contract,Bachelors,20523.49,680,0.369,12714.49,0
+Male,18-25,Salaried,High School,34347.16,729,0.124,43852.4,0
+Male,18-25,Gig/Contract,High School,22471.33,728,0.384,26467.25,0
+Female,26-40,Salaried,High School,96424.95,695,0.301,5687.32,1
+Female,26-40,Salaried,High School,55086.81,654,0.12,31350.07,0
+Male,26-40,Salaried,Masters/PhD,95865.64,757,0.407,24888.44,1
+Male,26-40,Salaried,Bachelors,26874.94,715,0.478,43333.89,1
+Female,41-60,Salaried,Bachelors,47911.58,596,0.537,48874.57,0
+Female,41-60,Salaried,Bachelors,118204.7,637,0.204,11327.74,1
+Male,18-25,Salaried,Bachelors,73163.67,616,0.191,36872.46,1
+Female,18-25,Salaried,High School,123369.95,712,0.514,6385.14,1
+Male,26-40,Salaried,High School,93768.27,726,0.116,39212.21,1
+Male,41-60,Salaried,Bachelors,30744.17,702,0.417,26458.76,1
+Female,18-25,Salaried,Masters/PhD,24310.39,627,0.371,39000.68,0
+Female,41-60,Salaried,High School,33081.62,713,0.433,22065.85,0
+Male,60+,Salaried,Bachelors,66785.39,747,0.244,9837.47,1
+Female,26-40,Self-Employed,High School,60859.39,537,0.38,29454.34,0
+Female,26-40,Self-Employed,Bachelors,62174.28,661,0.124,32653.34,1
+Female,26-40,Salaried,Masters/PhD,50070.68,732,0.133,25391.02,1
+Female,18-25,Self-Employed,High School,116281.99,850,0.528,20711.99,1
+Non-Binary,41-60,Self-Employed,Bachelors,90008.37,654,0.474,25361.15,1
+Female,60+,Self-Employed,High School,96810.91,754,0.302,21652.79,1
+Male,18-25,Gig/Contract,Bachelors,19139.9,737,0.362,17238.01,0
+Male,41-60,Self-Employed,Bachelors,38475.56,681,0.546,49350.86,1
+Female,26-40,Gig/Contract,High School,32534.16,689,0.265,13451.35,0
+Female,18-25,Gig/Contract,High School,57590.56,645,0.512,15341.92,0
+Female,18-25,Salaried,Bachelors,69328.71,699,0.322,19480.86,1
+Male,26-40,Salaried,Bachelors,85296.8,768,0.316,35745.6,1
+Female,18-25,Salaried,Bachelors,83873.9,603,0.216,41654.16,1
+Male,26-40,Gig/Contract,Bachelors,123414.52,735,0.17,21513.94,1
+Male,26-40,Self-Employed,Bachelors,70394.67,677,0.33,18918.2,1
+Female,60+,Unemployed,Bachelors,65504.88,643,0.234,45526.01,0
+Female,26-40,Salaried,Bachelors,25372.91,818,0.367,18546.17,1
+Male,60+,Gig/Contract,Bachelors,15370.04,631,0.387,20662.35,0
+Male,26-40,Salaried,Masters/PhD,56046.77,725,0.226,12892.57,1
+Male,18-25,Salaried,Masters/PhD,34873.09,699,0.135,21751.64,1
+Female,41-60,Unemployed,Masters/PhD,30079.6,626,0.409,27530.47,0

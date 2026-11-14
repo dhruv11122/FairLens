@@ -28,3 +28,20 @@ app.include_router(api_router)
 @app.get("/health")
 def health_check():
     return {"status": "healthy", "service": "FairLens Auditor Backend"}
+
+# Serve the prebuilt React dashboard from this same Render web service.
+# The /api and /health routes above continue to take precedence.
+from pathlib import Path
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
+
+FRONTEND_DIST = Path(__file__).resolve().parents[2] / "frontend" / "dist"
+if FRONTEND_DIST.is_dir():
+    app.mount("/assets", StaticFiles(directory=FRONTEND_DIST / "assets"), name="frontend-assets")
+
+    @app.get("/{path:path}", include_in_schema=False)
+    async def serve_frontend(path: str):
+        candidate = (FRONTEND_DIST / path).resolve()
+        if candidate.is_file() and candidate.is_relative_to(FRONTEND_DIST.resolve()):
+            return FileResponse(candidate)
+        return FileResponse(FRONTEND_DIST / "index.html")

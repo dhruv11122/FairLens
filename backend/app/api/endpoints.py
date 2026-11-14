@@ -1,5 +1,6 @@
 """FastAPI Router for FairLens AI Bias & Fairness Auditing Platform."""
 import os
+import hashlib
 import uuid
 import json
 import joblib
@@ -51,11 +52,29 @@ async def upload_model(file: UploadFile = File(...)):
     if not (file.filename.endswith(".joblib") or file.filename.endswith(".pkl") or file.filename.endswith(".pickle")):
         raise HTTPException(status_code=400, detail="Only .joblib or .pkl model artifacts are supported.")
 
+    # Public demo mode must never deserialize arbitrary user-supplied pickle/joblib.
+    # Only exact bundled, trusted demo artifacts are accepted (content-hash allowlist).
+    content = await file.read()
+    if os.getenv("FAIRLENS_PUBLIC_DEMO_ONLY") == "1":
+        known_models = [
+            PROJECT_ROOT / "models" / "demos" / "loan_approval_model.joblib",
+            PROJECT_ROOT / "models" / "demos" / "hiring_screening_model.joblib",
+        ]
+        trusted_hashes = {
+            hashlib.sha256(path.read_bytes()).digest()
+            for path in known_models if path.is_file()
+        }
+        if hashlib.sha256(content).digest() not in trusted_hashes:
+            raise HTTPException(
+                status_code=403,
+                detail="Public demo accepts only bundled trusted models. Use Predictions-Only mode for custom predictions or run FairLens locally for custom model uploads."
+            )
+    elif len(content) > 20 * 1024 * 1024:
+        raise HTTPException(status_code=413, detail="Model artifact exceeds 20 MB limit.")
+
     model_id = str(uuid.uuid4())[:8]
     save_path = os.path.join(BASE_UPLOAD_DIR, f"{model_id}_{file.filename}")
-    
     with open(save_path, "wb") as f:
-        content = await file.read()
         f.write(content)
 
     try:
@@ -87,11 +106,13 @@ async def upload_dataset(file: UploadFile = File(...)):
     if not file.filename.endswith(".csv"):
         raise HTTPException(status_code=400, detail="Only CSV datasets are currently supported.")
 
+    content = await file.read()
+    if os.getenv("FAIRLENS_PUBLIC_DEMO_ONLY") == "1" and len(content) > 5 * 1024 * 1024:
+        raise HTTPException(status_code=413, detail="Public demo CSV upload limit is 5 MB.")
     dataset_id = str(uuid.uuid4())[:8]
     save_path = os.path.join(BASE_UPLOAD_DIR, f"{dataset_id}_{file.filename}")
 
     with open(save_path, "wb") as f:
-        content = await file.read()
         f.write(content)
 
     try:
