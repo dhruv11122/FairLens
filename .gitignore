@@ -1,0 +1,32 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Frontend dependencies and builds
+node_modules/
+frontend/dist/
+dist/
+
+# macOS
+.DS_Store
+
+# Local databases
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Generated files and uploads
+uploads/
+reports/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
