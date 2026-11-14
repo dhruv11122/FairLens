@@ -30,3 +30,7 @@ reports/
 
 # Temporary files
 *.log
+
+# Keep backend PDF generator source code
+!backend/app/reports/
+!backend/app/reports/*.py
